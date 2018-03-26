@@ -4,3 +4,4 @@ d在这个世界上即使只有一个人信任我，我也决不能让他后悔�
 在feature1 分支上面提交
 Creating a new branch is quick & simple.
 度蜜月
+Git is a free software ...
